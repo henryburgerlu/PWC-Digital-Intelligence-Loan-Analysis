@@ -1,8 +1,10 @@
 # PWC-Digital-Intelligence-Loan-Analysis
 This project was a part of the PWC Digital Intelligence job simluation program ob Forage: https://www.theforage.com/simulations/pwc-ch/digital-intelligence-kmu8
+
 Objective: 
 The goal of this project is to independently value a loan portfolio as of **31 December 2020**, in support of the client’s year-end audit based on the provided prompt and the dataset.
 The dataset includes **monthly loan origination amounts** and **observed repayments** for vintages between **June 2019 and December 2020**. 
+
 The following assumptions are made to approach this project: 
 Customers keep repaying at the same rate as before.
 
