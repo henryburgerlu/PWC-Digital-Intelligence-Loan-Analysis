@@ -34,13 +34,19 @@ Variance Analysis: Compare our model's evaluation with our client's provided est
 Assessment Outcome for recommendations: Evaluated whether the difference exceeded the audit materiality threshold of CHF 500,000.
 
 # Conclusion
-Customers keep repaying at the same rate as before.
+Based on the expected repayment percentages provided and a 5% annual discount rate, our model estimates the portfolio value as of 31 December 2020 to be CHF 137,876,240.63, which exceeds the client’s estimate of CHF 84,993,122.67 by approximately CHF 52.88 million (+62.22%).
 
-There’s no increase in defaults or economic shocks.
+The model suggests significantly higher value than the client’s estimate.
 
-No write-offs or losses are anticipated.
+Forecasted repayments appear optimistic based on historical averages.
 
-A 5% annual discount rate is used, converted to a monthly rate for DCF purposes.
+The client may be:
 
-The discount rate remains constant across the entire forecast period and does not reflect changing market or credit risk conditions.
+Using a more conservative repayment assumption
+
+Accounting for defaults, charge-offs, or economic risk not modeled here
+
+Our model assumes full repayment according to historical averages, whereas the client may have factored in expected credit losses, delinquency, or write-offs.
+
+It is suggested that it might be helpful to reconcil assumptions with the client — particularly around repayment expectations, loss assumptions, and discounting methodology — to ensure alignment for audit validation and financial reporting.
 
