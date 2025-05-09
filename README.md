@@ -5,7 +5,7 @@ Objective:
 The goal of this project is to independently value a loan portfolio as of **31 December 2020**, in support of the client’s year-end audit based on the provided prompt and the dataset.
 The dataset includes **monthly loan origination amounts** and **observed repayments** for vintages between **June 2019 and December 2020**. We are also given info that the client provided their own estimation of CHF 84,993,122.67. We will compare our model outut with our clients to evluate absolute and relative difference. 
 
-The following assumptions are made to approach this project: 
+## The following assumptions are made to approach this project: 
 
 Customers keep repaying at the same rate as before.
 
@@ -17,7 +17,7 @@ A 5% annual discount rate is used, converted to a monthly rate for DCF purposes.
 
 The discount rate remains constant across the entire forecast period and does not reflect changing market or credit risk conditions.
 
-#Approach to the project: 
+## Approach to the project: 
 
 First, we look at histoical actual repayment percentages for each vintage across observed months by dividing repayments across all vintages.
 
