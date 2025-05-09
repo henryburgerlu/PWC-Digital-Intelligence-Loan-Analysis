@@ -50,3 +50,4 @@ Our model assumes full repayment according to historical averages, whereas the c
 
 It is suggested that it might be helpful to reconcil assumptions with the client — particularly around repayment expectations, loss assumptions, and discounting methodology — to ensure alignment for audit validation and financial reporting.
 
+Disclaimer: I do not own the dataset included in this project. I complete this project as a job simulation learning opportunity. The dataset source came from Forage: https://www.theforage.com/simulations/pwc-ch/digital-intelligence-kmu8
