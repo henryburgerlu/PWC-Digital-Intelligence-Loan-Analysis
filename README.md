@@ -31,7 +31,7 @@ Applied Discounted Cash Flow Value: Say we used a 55 annual discount rate and co
 
 Variance Analysis: Compare our model's evaluation with our client's provided estimation of CHF 84,993,122.67
 
-Assessment: 
+Assessment Outcome for recommendations: Evaluated whether the difference exceeded the audit materiality threshold of CHF 500,000.
 
 # Conclusion
 Customers keep repaying at the same rate as before.
