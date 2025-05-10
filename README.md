@@ -1,5 +1,5 @@
 # PWC-Digital-Intelligence-Loan-Analysis
-This project was a part of the PWC Digital Intelligence job simluation program ob Forage: https://www.theforage.com/simulations/pwc-ch/digital-intelligence-kmu8
+This project was a part of the PWC Digital Intelligence job simluation program from Forage: https://www.theforage.com/simulations/pwc-ch/digital-intelligence-kmu8
 
 Objective: 
 The goal of this project is to independently value a loan portfolio as of **31 December 2020**, in support of the client’s year-end audit based on the provided prompt and the dataset.
