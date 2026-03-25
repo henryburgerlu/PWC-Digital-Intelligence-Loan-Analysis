@@ -34,21 +34,37 @@ Variance Analysis: Compare our model's evaluation with our client's provided est
 Assessment Outcome for recommendations: Evaluated whether the difference exceeded the audit materiality threshold of CHF 500,000.
 
 # Conclusion
-Based on the data-driven repayment curve and a 5% annual discount rate, our model independently estimates the portfolio value as of 31 December 2020 to be CHF 197,133,966.30.
+ased on a month-in-life aligned repayment curve and a 5% annual discount rate, 
+our model independently estimates the portfolio value as of 31 December 2020 to be 
+**CHF 102,291,840.95**.
 
-It is significantly higher than the client’s estimate of CHF 84,993,122.67, resulting in an absolute difference of CHF 112,140,843.63 (+131.94%). Since this difference exceeds the CHF 500,000 audit threshold, it indicates a substantial discrepancy in the valuation.
+This is higher than the client's estimate of **CHF 84,993,122.67**, resulting in 
+an absolute difference of **CHF 17,298,718.28** (+20.35% relative to the client's 
+estimate). Since this difference exceeds the **CHF 500,000** audit materiality 
+threshold, it indicates a notable discrepancy in the valuation that warrants 
+further investigation.
 
-Forecasted repayments appear optimistic based on historical averages.
+Forecasted repayments are based strictly on observed historical averages across 
+all loan vintages, weighted by origination amount and aligned by month-in-life 
+position.
 
-Our model's assumptions are that customers will continue to repay at hisotical average rates without accounting for potential defaults or economic shocks. However, this significant variances suggests that the client's estimation might incorporate a conserview view. 
+The model operates under the following assumptions:
+- Customers continue to repay at historical average rates
+- No increase in defaults or economic shocks
+- No write-offs or losses are anticipated
+- A constant 5% annual discount rate applies throughout the forecast period
 
-The client may be:
+The remaining gap of **CHF 17.30 million** suggests the client's estimate may 
+incorporate one or more of the following adjustments not reflected in our model:
 
-Expected credit losses or anticipated defaults. 
-Using different discount rate than 5%.
-Using a more conservative repayment. 
-Accounting for defaults, charge-offs, or economic risk not modeled here
+- Expected credit losses or anticipated loan defaults
+- A more conservative or alternative repayment curve
+- A different discount rate or discounting horizon
+- Provisions for charge-offs, delinquency, or economic risk
 
-Our model assumes full repayment according to historical averages, whereas the client may have factored in expected credit losses, delinquency, or write-offs.
+The model assumes full repayment in line with historical averages, whereas the 
+client may have applied credit loss expectations or other risk adjustments.
 
-It is suggested that it might be helpful to reconcil assumptions with the client — particularly around repayment expectations, loss assumptions, and discounting methodology — to ensure alignment for audit validation and financial reporting.
+It is recommended to reconcile assumptions with the client — particularly around 
+repayment expectations, loss provisioning, and discounting methodology — to ensure 
+alignment for audit validation and financial reporting purposes.
